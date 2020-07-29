@@ -1,176 +1,132 @@
 {
     "categorias": [{
-            "titulo": "Front End",
-            "link": "https://www.alura.com.br/formacao-front-end",
-            "cor": "#6BD1FF",
+            "titulo": "2017",
+            "link": "https://www.youtube.com/watch?v=OUe7_HnnGco&list=PLOx0UNhy73RBPYEBLPx6Z5sfdqncrSAvU&index=1",
+            "cor": "#ffc100",
             "link_extra": {
-                "text": "Formação de Front End na Alura",
-                "url": "https://www.alura.com.br/cursos-online-front-end"
+                "text": "Todas as cenas de Vanity em 2017",
+                "url": "https://www.youtube.com/watch?v=OUe7_HnnGco&list=PLOx0UNhy73RBPYEBLPx6Z5sfdqncrSAvU&index=1"
             },
             "videos": [{
-                    "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-                    "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+                    "titulo": "Vanity | 12 de outubro de 2017 (Parte I)",
+                    "url": "https://www.youtube.com/watch?v=OUe7_HnnGco"
                 },
                 {
-                    "titulo": "SEO com React",
-                    "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+                    "titulo": "Vanity | 12 de outubro de 2017 (Parte II)",
+                    "url": "https://www.youtube.com/watch?v=SFKHNYsjvNw"
                 },
                 {
-                    "titulo": "Componentização com VanillaJS #AluraMais",
-                    "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+                    "titulo": "Vanity | 13 de outubro de 2017 (Parte I)",
+                    "url": "https://www.youtube.com/watch?v=HydcA3k2w_M"
                 },
                 {
-                    "titulo": "Pare de chutar e aprenda a display: inline #01",
-                    "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+                    "titulo": "Vanity | 13 de outubro de 2017 (Parte II)",
+                    "url": "https://www.youtube.com/watch?v=GiKxnLRJAeI"
                 },
                 {
-                    "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-                    "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+                    "titulo": "Vanity | 16 de outubro de 2017 (Parte I)",
+                    "url": "https://www.youtube.com/watch?v=7OepiPAEx8E"
                 },
                 {
-                    "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-                    "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+                    "titulo": "Vanity | 16 de outubro de 2017 (Parte II)",
+                    "url": "https://www.youtube.com/watch?v=eEZtLygg8EY"
                 },
                 {
-                    "titulo": "Novidades do Angular v9",
-                    "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+                    "titulo": "Vanity | 16 de outubro de 2017 (Parte III)",
+                    "url": "https://www.youtube.com/watch?v=iyw4IYlGZcE"
                 },
                 {
-                    "titulo": "Base para aprender os frameworks",
-                    "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+                    "titulo": "Vanity | 17 de outubro de 2017 (Parte I)",
+                    "url": "https://www.youtube.com/watch?v=8P930nXDpi0"
                 }
             ]
         },
         {
-            "titulo": "Back End",
-            "cor": "#00C86F",
+            "titulo": "2018",
+            "cor": "#ff9a00",
             "link_extra": {
-                "text": "Cursos de Back End na Alura",
-                "url": "https://www.alura.com.br/cursos-online-programacao"
+                "text": "Todas as cenas de Vanity em 2018",
+                "url": "https://www.youtube.com/watch?v=6_3xD3CHDYk&list=PLOx0UNhy73RBq4P7nO27YPFZLp_jWcgDo"
             },
             "videos": [{
-                    "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-                    "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+                    "titulo": "Vanity | 24 de janeiro de 2018",
+                    "url": "https://www.youtube.com/watch?v=6_3xD3CHDYk"
                 },
                 {
-                    "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-                    "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+                    "titulo": "Vanity | 25 de janeiro de 2018 (Parte I)",
+                    "url": "https://www.youtube.com/watch?v=Q3IDps5-Ulw"
                 },
                 {
-                    "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-                    "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+                    "titulo": "Vanity | 25 de janeiro de 2018 (Parte II)",
+                    "url": "https://www.youtube.com/watch?v=4DAvDcvdIX8"
                 },
                 {
-                    "titulo": "API: Dicionário do Programador",
-                    "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+                    "titulo": "Vanity | 26 de janeiro de 2018 (Parte I)",
+                    "url": "https://www.youtube.com/watch?v=zodAWVVnpAw"
                 },
                 {
-                    "titulo": "Usando Git Direito",
-                    "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+                    "titulo": "Vanity | 26 de janeiro de 2018 (Parte II)",
+                    "url": "https://www.youtube.com/watch?v=A_CP99cRGYU"
+                }
+            ]
+        },
+
+
+        {
+            "titulo": "2019",
+            "cor": "#ff7400",
+            "link_extra": {
+                "text": "Todas as cenas de Vanity em 2019",
+                "url": "https://www.youtube.com/watch?v=ryJxEU5V4Bw&list=PLZ0AAlV1pJQaTtcNyZPTgm1TkZRvH7Q74"
+            },
+            "videos": [{
+                    "titulo": "Charity & Vanessa 1st January 2019",
+                    "url": "https://www.youtube.com/watch?v=ryJxEU5V4Bw"
+                },
+                {
+                    "titulo": "Charity & Vanessa 2nd January 2019",
+                    "url": "https://www.youtube.com/watch?v=wX1xZbHzTgE"
+                },
+                {
+                    "titulo": "Charity & Vanessa 3rd January 2019 Part 1",
+                    "url": "https://www.youtube.com/watch?v=LaNt8LptYts"
+                },
+                {
+                    "titulo": "Charity & Vanessa 3rd January 2019 Part 2",
+                    "url": "https://www.youtube.com/watch?v=lpUkZoF_0RQ"
+                },
+                {
+                    "titulo": "Charity & Vanessa 3rd January 2019 Part 3",
+                    "url": "https://www.youtube.com/watch?v=B2FiDlw-xek"
                 }
             ]
         },
         {
-            "titulo": "Data Science e Inteligência Artificial",
-            "cor": "#9cd33b",
+            "titulo": "2020",
+            "cor": "#ff4d00",
             "link_extra": {
-                "text": "Cursos de Data Science na Alura",
-                "url": "https://www.alura.com.br/formacao-data-science"
+                "text": "Todas as cenas de Vanity em 2020",
+                "url": "https://www.youtube.com/watch?v=fUEAnXthP6E&list=PLvxY3Oe-qhcjO345SA1moklK2JL1ev2LI&index=6"
             },
             "videos": [{
-                    "titulo": "Teste de Turing",
-                    "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+                    "titulo": "Charity and Vanessa - Thursday 9th January 2020",
+                    "url": "https://www.youtube.com/watch?v=fUEAnXthP6E"
                 },
                 {
-                    "titulo": "O que é Data Science?",
-                    "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+                    "titulo": "Charity and Vanessa - Friday 10th January 2020",
+                    "url": "https://www.youtube.com/watch?v=AdN1NN72hIU"
                 },
                 {
-                    "titulo": "Melhor forma de aprender Python",
-                    "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+                    "titulo": "Charity and Vanessa - Monday 13th January 2020",
+                    "url": "https://www.youtube.com/watch?v=R6M1yowg5D8"
                 },
                 {
-                    "titulo": "Como ingressar no mercado de Data Science?",
-                    "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-                }
-            ]
-        },
-        {
-            "titulo": "Filmes",
-            "cor": "orange",
-            "videos": [{
-                    "titulo": "Interestellar",
-                    "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+                    "titulo": "Charity and Vanessa - Thursday 16th January 2020",
+                    "url": "https://www.youtube.com/watch?v=ue-n4tLwR6A"
                 },
                 {
-                    "titulo": "Gattaca",
-                    "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-                },
-                {
-                    "titulo": "A Chegada",
-                    "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-                },
-                {
-                    "titulo": "Feitiço do Tempo",
-                    "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-                }
-            ]
-        },
-        {
-            "titulo": "Games",
-            "cor": "red",
-            "link_extra": {
-                "text": "Formação de Jogos na Alura",
-                "url": "https://www.alura.com.br/formacao-jogos-unity"
-            },
-            "videos": [{
-                    "titulo": "Final Fantasy 7",
-                    "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-                },
-                {
-                    "titulo": "Assassins Creed Valhalla",
-                    "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-                },
-                {
-                    "titulo": "God of War 4",
-                    "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-                },
-                {
-                    "titulo": "Resident Evil 8",
-                    "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-                },
-                {
-                    "titulo": "Pokémon Let's Go Pikachu/Eevee",
-                    "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-                }
-            ]
-        },
-        {
-            "titulo": "Aprendendo a aprender tecnologia",
-            "cor": "#6b5be2",
-            "link_extra": {
-                "text": "Curso sobre aprendizado na Alura",
-                "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-            },
-            "videos": [{
-                    "titulo": "Como estudar melhor?",
-                    "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-                },
-                {
-                    "titulo": "Faculdade",
-                    "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-                },
-                {
-                    "titulo": "Frameworks",
-                    "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-                },
-                {
-                    "titulo": "A mágica do Aprendizado",
-                    "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-                },
-                {
-                    "titulo": "Como aprender a programar?",
-                    "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+                    "titulo": "Charity and Vanessa - Friday 17th January 2020",
+                    "url": "https://www.youtube.com/watch?v=pbtc4Mm6om4"
                 }
             ]
         }

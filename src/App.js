@@ -6,18 +6,39 @@ import BannerMain from './components/BannerMain'
 import Footer from './components/Footer'
 
 function App() {
-    return ( <
-        div >
-        <
-        Menu / >
+  return (
+    <div style={{backgroundColor: "#141414"}}>
+      <Menu />
+
+      <Menu />
+
+      <BannerMain
+        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
+        url={dadosIniciais.categorias[0].videos[0].url}
+        videoDescription={"No velório temático de Finn Barton, Vanessa e Charity ficam presas na adega do Woolpack, desencadeando um grande romance."}
+      />
+
+      <Carousel
+        ignoreFirstVideo
+        category={dadosIniciais.categorias[0]}
+      />
+
+      <Carousel
+        category={dadosIniciais.categorias[1]}
+      />
+
+      <Carousel
+        category={dadosIniciais.categorias[2]}
+      />
+
+      <Carousel
+        category={dadosIniciais.categorias[3]}
+      />
 
 
-
-        <
-        Footer / >
-        <
-        /div>
-    );
+      <Footer />
+    </div>
+  );
 }
 
 export default App;

@@ -6,7 +6,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="https://www.youtube.com/channel/UCwbyt6iJGbTE1Qj3E3Pio1w">
-        <img src={Logo} alt="VanityFlix" />
+        <img className="Logo" src={Logo} alt="VanityFlix" />
       </a>
       <p>
         Orgulhosamente criado durante a
