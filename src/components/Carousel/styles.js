@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Title = styled.h3`
+export const Title = styled.h3 `
   font-style: normal;
   font-weight: normal;
   font-size: 35px;
@@ -18,7 +18,7 @@ export const Title = styled.h3`
   }
 `;
 
-export const ExtraLink = styled.a`
+export const ExtraLink = styled.a `
   margin-left: 16px;
   text-decoration: none;
   transition: opacity .3s;
@@ -33,8 +33,9 @@ export const ExtraLink = styled.a`
   }
 `;
 
-export const VideoCardList = styled.ul`
+export const VideoCardList = styled.ul `
   margin: 0;
+  z-index: 999;
   padding-left: 0;
   padding-bottom: 32px;
   list-style: none;
@@ -47,9 +48,10 @@ export const VideoCardList = styled.ul`
   }
 `;
 
-export const VideoCardGroupContainer = styled.section`
+export const VideoCardGroupContainer = styled.section `
   color: white;
   min-height: 197px;
+    z-index: 999;
   margin-left: 5%;
   margin-bottom: 16px;
 `;
