@@ -5,8 +5,7 @@ import './index.css'
 import Home from './pages/Home'
 import CadastroVideo from './pages/Cadastro/Video'
 import CadastroCategoria from './pages/Cadastro/Categoria'
-
-const Pagina404 = () => (<div>Página 4040</div>)
+import Pagina404 from './pages/404/index'
 
 ReactDOM.render(
   <BrowserRouter>

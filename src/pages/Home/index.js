@@ -8,7 +8,6 @@ import Footer from '../../components/Footer'
 function Home() {
   return (
     <div style={{backgroundColor: "#141414"}}>
-      <Menu />
 
       <Menu />
 
